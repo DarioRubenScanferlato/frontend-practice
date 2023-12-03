@@ -11,7 +11,6 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -57,7 +56,7 @@ Users should be able to:
 - margin: auto auto; is very cool
 - position: fixed, absolute can be useful, especially if used with transform: translate(-50%, -50%);
 
-## Stuff to memorize
+### Stuff to memorize
 - Add <script src="index.js"></script> at the end
 - <link rel="stylesheet" href="index.css"> to add .css
 - const imgElement = document.getElementById('dynamicImg');
@@ -66,4 +65,4 @@ Users should be able to:
 
 ### Useful resources
 
-- [Flexbox reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)<
+- [Flexbox reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
